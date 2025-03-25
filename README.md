@@ -1,5 +1,7 @@
-This Repository will hold all of the code and queries for my Portfolio Projects .
+# My_Portfolio
 
-As a DA aspirant, i will be actively creating project weekly to  challenge  and prepare me for the real_world. 
+## This Repository will hold all of the code and queries for my Portfolio Projects .
 
-Most of the data used would be taken from https://ourworldindata.org/ and kaggle.
+### As a DA aspirant, i will be actively creating project weekly to  challenge  and prepare me for the real_world. 
+
+#### Most of the data used would be taken from https://ourworldindata.org/ and kaggle.
